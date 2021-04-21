@@ -6,11 +6,11 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 
 import './global.css'
-import Badge from './components/Badge'
+import BadgeNew from './pages/BadgeNew'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Badge />
+    <BadgeNew />
   </React.StrictMode>,
   document.getElementById('root')
 );
