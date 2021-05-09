@@ -31,6 +31,8 @@ const api = {
       return callApi('/badges');
     },
     create(badge) {
+      //Simulando el error en envío de datos
+      //throw new Error('Server error');
       return callApi(`/badges`, {
         method: 'POST',
         body: JSON.stringify(badge),
