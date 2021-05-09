@@ -2,11 +2,11 @@
   "badges": [
     {
       "id": "250fe715-88d4-4c18-95e7-62a6a097803a",
-      "firstName": "Zoie",
+      "firstName": "Zoe",
       "lastName": "Grant",
       "email": "Efrain_Gaylord6@yahoo.com",
       "jobTitle": "Corporate Branding Representative",
-      "twitter": "ZoieGrant05512-2019",
+      "twitter": "ZoiGrant05512-2019",
       "avatarUrl": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
     },
     {
@@ -46,8 +46,8 @@
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
     },
     {
-      "firstName": "Liliana",
-      "lastName": "Restrepo",
+      "firstName": "Marta Liliana",
+      "lastName": "Restrepo Torres",
       "email": "lilianarestrepot@gmail.com",
       "jobTitle": "Engeneering",
       "twitter": "lilirestrepot",
@@ -55,7 +55,7 @@
     },
     {
       "firstName": "Carolina",
-      "lastName": "Restrepo",
+      "lastName": "Restrepo Torres",
       "email": "carolinarestrepotorres@gmail.com",
       "jobTitle": "Teacher",
       "twitter": "carolinarestrepo",
@@ -108,6 +108,14 @@
       "jobTitle": "Engeneering",
       "twitter": "lilirestrepot",
       "id": "iSi9uGu"
+    },
+    {
+      "firstName": "Liliana",
+      "lastName": "Restrepo",
+      "email": "lilianarestrepot@gmail.com",
+      "jobTitle": "Engeneering",
+      "twitter": "lilirestrepot",
+      "id": "FQcogzk"
     }
   ]
 }
